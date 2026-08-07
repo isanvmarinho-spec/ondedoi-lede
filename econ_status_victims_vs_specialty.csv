@@ -1,0 +1,13 @@
+,victim_econ_status,specialty,count,percentage_within_economic_status
+2,Classe A - Renda mensal familiar acima de R$11.261,General practice/internal medicine,4,12.9
+3,Classe A - Renda mensal familiar acima de R$11.261,Gynecology/obstetrics,13,41.9
+10,Classe A - Renda mensal familiar acima de R$11.261,Pediatrics,1,3.2
+15,Classe B - Renda mensal familiar até   R$ 11.261,General practice/internal medicine,2,14.3
+16,Classe B - Renda mensal familiar até   R$ 11.261,Gynecology/obstetrics,6,42.9
+26,Classe C - Renda mensal familiar até    R$ 8.640,General practice/internal medicine,13,14.0
+27,Classe C - Renda mensal familiar até    R$ 8.640,Gynecology/obstetrics,30,32.3
+31,Classe C - Renda mensal familiar até    R$ 8.640,Pediatrics,9,9.7
+36,Classe D - Renda mensal familiar até   R$ 2.004,General practice/internal medicine,4,12.1
+37,Classe D - Renda mensal familiar até   R$ 2.004,Gynecology/obstetrics,14,42.4
+45,Classe E - Renda mensal familiar até   R$ 1.254,General practice/internal medicine,3,14.3
+46,Classe E - Renda mensal familiar até   R$ 1.254,Gynecology/obstetrics,9,42.9

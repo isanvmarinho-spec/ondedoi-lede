@@ -1,0 +1,11 @@
+,age_group,abuse_type,count,percentage_within_age_group
+3,18+,Violação sexual mediante fraude (Tocar de maneira imprópria fazendo a paciente pensar que era parte do procedimento médico),79,51.3
+2,18+,Injúria (Cantadas e palavras ofensivas),39,25.3
+1,18+,Importunação sexual (Beijos forçados e toques sem permissão),35,22.7
+0,18+,Estupro de vulnerável (quando a vítima é menor de 14 anos ou esta sob efeito de medicação),1,0.6
+9,Under 18,Violação sexual mediante fraude (Tocar de maneira imprópria fazendo a paciente pensar que era parte do procedimento médico),26,54.2
+7,Under 18,Importunação sexual (Beijos forçados e toques sem permissão),9,18.8
+8,Under 18,Injúria (Cantadas e palavras ofensivas),7,14.6
+5,Under 18,Estupro de vulnerável (quando a vítima é menor de 14 anos ou esta sob efeito de medicação),3,6.2
+6,Under 18,Estupro de vulnerável (quando a vítima é menor de 14 anos ou está sob efeito de medicação),2,4.2
+4,Under 18,Estupro (Ato sexual utilizando de violência ou grave ameaça),1,2.1

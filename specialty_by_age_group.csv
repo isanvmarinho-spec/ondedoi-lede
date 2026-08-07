@@ -1,0 +1,32 @@
+,age_group,specialty,count,percentage_within_age_group
+6,18+,Gynecology/obstetrics,42,38.9
+5,18+,General practice/internal medicine,15,13.9
+12,18+,Other/unclear,8,7.4
+1,18+,Cardiology,6,5.6
+4,18+,Gastroenterology,5,4.6
+16,18+,Radiology,5,4.6
+9,18+,Nursing,4,3.7
+11,18+,Orthopedics/traumatology,4,3.7
+15,18+,Psychiatry/psychology,3,2.8
+18,18+,Surgery,3,2.8
+2,18+,Dentistry,2,1.9
+3,18+,Dermatology,2,1.9
+13,18+,Pediatrics,2,1.9
+14,18+,Physiotherapy,2,1.9
+0,18+,Anesthesiology,1,0.9
+7,18+,Homeopathy,1,0.9
+8,18+,Mastology,1,0.9
+10,18+,Nutrition,1,0.9
+17,18+,Rheumatology,1,0.9
+24,Under 18,Gynecology/obstetrics,11,32.4
+28,Under 18,Pediatrics,7,20.6
+19,Under 18,Cardiology,3,8.8
+20,Under 18,Dentistry,3,8.8
+23,Under 18,General practice/internal medicine,3,8.8
+21,Under 18,Dermatology,1,2.9
+22,Under 18,Gastroenterology,1,2.9
+25,Under 18,Nursing,1,2.9
+26,Under 18,Orthopedics/traumatology,1,2.9
+27,Under 18,Other/unclear,1,2.9
+29,Under 18,Physiotherapy,1,2.9
+30,Under 18,Psychiatry/psychology,1,2.9

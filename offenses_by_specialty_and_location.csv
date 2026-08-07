@@ -1,0 +1,43 @@
+specialty_list,offense_location_clean,0
+Anesthesiology,Private hospital,1
+Cardiology,Free hospital,1
+Cardiology,Private hospital,2
+Cardiology,Private practice,7
+Dentistry,Other,2
+Dentistry,Private hospital,1
+Dentistry,Private practice,3
+Dermatology,Private practice,5
+Gastroenterology,Free Clinic,1
+Gastroenterology,Private practice,6
+General practice/internal medicine,Free Clinic,5
+General practice/internal medicine,Free hospital,1
+General practice/internal medicine,Other,1
+General practice/internal medicine,Private hospital,10
+General practice/internal medicine,Private practice,9
+Gynecology/obstetrics,Free Clinic,8
+Gynecology/obstetrics,Free hospital,4
+Gynecology/obstetrics,Private hospital,13
+Gynecology/obstetrics,Private practice,47
+Homeopathy,Private practice,1
+Mastology,Private practice,1
+Nursing,Free Clinic,1
+Nursing,Free hospital,4
+Nursing,Private hospital,3
+Nursing,Private practice,1
+Nutrition,Private practice,1
+Orthopedics/traumatology,Free hospital,1
+Orthopedics/traumatology,Private hospital,4
+Orthopedics/traumatology,Private practice,3
+Other/unclear,Free hospital,2
+Other/unclear,Other,2
+Other/unclear,Private practice,13
+Otorhinolaryngology,Private practice,1
+Pediatrics,Free hospital,4
+Pediatrics,Private practice,6
+Physiotherapy,Private practice,3
+Psychiatry/psychology,Private practice,4
+Radiology,Other,1
+Radiology,Private practice,4
+Rheumatology,Private practice,1
+Surgery,Free Clinic,1
+Surgery,Private practice,3

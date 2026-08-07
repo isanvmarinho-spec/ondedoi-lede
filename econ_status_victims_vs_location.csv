@@ -1,0 +1,23 @@
+,victim_econ_status,offense_location_clean,count,percentage_within_economic_status
+0,Classe A - Renda mensal familiar acima de R$11.261,Free Clinic,1,3.6
+1,Classe A - Renda mensal familiar acima de R$11.261,Free hospital,1,3.6
+2,Classe A - Renda mensal familiar acima de R$11.261,Other,1,3.6
+3,Classe A - Renda mensal familiar acima de R$11.261,Private hospital,4,14.3
+4,Classe A - Renda mensal familiar acima de R$11.261,Private practice,21,75.0
+5,Classe B - Renda mensal familiar até   R$ 11.261,Private hospital,1,8.3
+6,Classe B - Renda mensal familiar até   R$ 11.261,Private practice,11,91.7
+7,Classe C - Renda mensal familiar até    R$ 8.640,Free Clinic,6,6.4
+8,Classe C - Renda mensal familiar até    R$ 8.640,Free hospital,8,8.5
+9,Classe C - Renda mensal familiar até    R$ 8.640,Other,2,2.1
+10,Classe C - Renda mensal familiar até    R$ 8.640,Private hospital,17,18.1
+11,Classe C - Renda mensal familiar até    R$ 8.640,Private practice,61,64.9
+12,Classe D - Renda mensal familiar até   R$ 2.004,Free Clinic,3,9.4
+13,Classe D - Renda mensal familiar até   R$ 2.004,Free hospital,5,15.6
+14,Classe D - Renda mensal familiar até   R$ 2.004,Other,1,3.1
+15,Classe D - Renda mensal familiar até   R$ 2.004,Private hospital,6,18.8
+16,Classe D - Renda mensal familiar até   R$ 2.004,Private practice,17,53.1
+17,Classe E - Renda mensal familiar até   R$ 1.254,Free Clinic,7,33.3
+18,Classe E - Renda mensal familiar até   R$ 1.254,Free hospital,4,19.0
+19,Classe E - Renda mensal familiar até   R$ 1.254,Other,1,4.8
+20,Classe E - Renda mensal familiar até   R$ 1.254,Private hospital,4,19.0
+21,Classe E - Renda mensal familiar até   R$ 1.254,Private practice,5,23.8
